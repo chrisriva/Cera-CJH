@@ -1,0 +1,32 @@
+body {
+  font-size: 16px;
+  color: #fff;
+  background-color: #61122f;
+  font-family: 'Oxygen', sans-serif;
+}
+
+#header-nav{
+  background-color: blanchedalmond;
+  /*border-bottom: 6px solid black;*/
+  border-top: 2px solid #61122f;
+  border-left: 2px solid #61122f;
+}
+
+#menu-container{
+  background-color: blanchedalmond;
+  color: #63454f;
+}
+
+#menu-header{
+  color: whitesmoke;
+  font-size: 26px;
+}
+
+#b-name{
+  color: #63454f;
+}
+
+.item-header{
+  color: #63454f;
+  font-size: 20px;
+}
